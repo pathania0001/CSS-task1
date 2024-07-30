@@ -20,7 +20,7 @@
    
      
     
-     transition-property: transform,margin-left,margin-bottom,margin-top;
+     transition-property: left,margin-left,top,margin-top;
     
    
      transition: left 2s linear, top 3s linear 2s,margin-left 2s linear 5s,margin-top 3s linear 7s; 
